@@ -11,16 +11,42 @@ laravel框架搭建源码，使用workerman作为k线系统。使用redis做为�
 # 联系我们
 qq 29980928
 微信：19180580919
+飞机：@zhugegekaifa
 
 # 演示地址
 
-前端h5： https://h5.zhugege.vip 444555666 444555666
+前端h5： 
+https://h5.zhugege.vip 
+444555666 444555666
 
-前端：pc https://pc.zhugege.vip 444555666 444555666
+前端pc：
+https://pc.zhugege.vip 
+444555666 444555666
 
-总后台 https://admin.zhugege.vip admin admin
+总后台 
+https://admin.zhugege.vip/admin 
+ceshi cs123456
 
-代理端 https://daili.zhugege.vip 444555666 444555666
+代理端 
+https://daili.zhugege.vip/admin 
+444555666 444555666
+
+# 界面展示
+![微信截图_20230713220045](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/20eccd08-cf4a-493e-bfda-51537532b1a1)
+![微信截图_20230713220054](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/0ee3e8c6-d159-4581-abc8-b7f520f0569b)
+![微信截图_20230713220209](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/0533bb10-6b96-4295-988c-5c3ddd243406)
+![微信截图_20230713220151](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/e784473a-dd60-434e-a784-9758b7d364f3)
+![微信截图_20230713220223](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/51f0c481-7be2-4af5-b4b9-f68696ab3186)
+![微信截图_20230713220139](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/8ca3fa62-e7e1-4252-9a22-c3e31e4f517e)
+![微信截图_20230713220103](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/f61955ab-151a-4384-af8c-1881b93c2714)
+![微信截图_20230713220400](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/c317e7fb-43c4-4b20-b3b9-c33d4de377c0)
+![微信截图_20230713220348](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/a392f5af-5b15-4ddf-8381-73d3a2d92b3f)
+![微信截图_20230713220315](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/f8ed9f93-3a91-433e-a864-8c99084f8732)
+![微信截图_20230713220309](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/72270f86-46fe-47b5-8e08-9f92c7d0f8f7)
+![微信截图_20230713220303](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/3a2068e1-0a63-4951-b045-1a95aea3956f)
+
+
+
 
 # 功能说明 源码简介与安装说明：
 
