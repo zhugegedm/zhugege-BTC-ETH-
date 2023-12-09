@@ -24,7 +24,7 @@ https://pc.zhugege.vip
 444555666 444555666
 
 总后台 
-https://ad.safeonlien.com/admin 
+https://admin.zhugege.vip/admin 
 ceshi cs123456
 
 代理端 
