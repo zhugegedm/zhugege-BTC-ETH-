@@ -13,6 +13,8 @@ qq 29980928
 微信：19180580919
 飞机：@zhugegekaifa
 
+在线客服： 复制粘贴链接：(https://kf.sykeji.vip/index/index/home?visiter_id=&visiter_name=&avatar=&business_id=3&groupid=0&special=3） {在线时间10:00-22:00}
+
 # 演示地址
 
 前端h5： 
@@ -25,7 +27,7 @@ https://pc.zhugege.vip
 
 总后台 
 https://admin.zhugege.vip/admin 
-ceshi cs123456
+admin admin
 
 代理端 
 https://daili.zhugege.vip/admin 
@@ -60,29 +62,23 @@ https://daili.zhugege.vip/admin
 
 3、基于laravel服务架构，扩展更容易
 
-4、MySQL、Redis多种数据存储方式，只为更快
+4、MySQL、php、Redis多种数据存储方式，只为更快
 
-5、Kafka发布订阅消息队列，让订单更快流转
+5、主流币种对接区块链接口齐全，开箱即用
 
-6、主流币种对接区块链接口齐全，开箱即用
+6、冷热钱包分离，两种提现方式，保证安全
 
-7、冷热钱包分离，两种提现方式，保证安全
+7、机器人系统，同步行情，维护深度，防止搬砖
 
-8、机器人系统，同步行情，维护深度，防止搬砖
+8、交易所设计者提供技术支持，部署+二开无忧
 
-9、交易所设计者提供技术支持，部署+二开无忧
+9、支持添加自定义平台币及其他币种
 
-10、支持添加自定义平台币及其他币种
-
-# 使用教程：
+使用教程：
 
 准备mysql数据库，创建名称为“xxxx”的数据库
 
 准备redis缓存数据库
-
-准备kafka流式处理环境（先配置运行zookper，接着配置运行kafka）
-
-准备mongodb数据库环境，创建用户admin、xxxx，创建bitrade数据库
 
 准备阿里云OSS（修改项目中需要配置的地方）
 
@@ -102,31 +98,19 @@ https://daili.zhugege.vip/admin
 
 运行Admin项目（该服务并不依赖其他服务，因此也可只运行此项目，直接查看后台）
 
-关于数据库脚本的问题
-
-有朋友反映没有完整的SQL文件，这是因为编译成功的Jar，首次运行后会自动将Entity映射成数据库结构，项目中的SQL只是完成一些Springcloud无法完成的数据库结构。 数据库自动生成配置位于application.properties
-
-# 配置文件：
-
-#jpa
-
-spring.jpa.show-sql=true
-
-spring.data.jpa.repositories.enabled=true
-
-spring.jpa.hibernate.ddl-auto=update
-
-spring.jpa.hibernate.ddl-auto=update 这个配置会自动更新数据库结构。
-
 核心功能说明（用户端）
 
 注册/登录/实名认证/审核（目前仅支持手机，二次开发可加入邮件，很简单）
 
 Banner/公告/帮助/定制页面（Banner支持PC与APP分开设置，帮助支持各种分类模式）
 
+C2C交易/OTC交易（支持两种模式，项目早期可由平台承担C2C兑换，后期可开放OTC交易）
+
 币币交易（支持限价委托、市价委托，二次开发可加入其它委托模式）
 
 邀请注册/推广合伙人（支持对邀请推广人数、佣金进行以日、周、月的排行统计）
+
+创新实验室（该部分支持功能较多，分项说明。另，APP暂不全部支持该功能）
 
 6-1. 首发抢购活动模式（如发行新交易对时，可对交易对设置一定数量的币种进行抢购）
 
@@ -137,6 +121,8 @@ Banner/公告/帮助/定制页面（Banner支持PC与APP分开设置，帮助支
 6-4. 控盘均摊模式（如6-3，只不过平均分配）
 
 6-5. 活动模式（支持用户抵押一定数量的币种，由官方承诺每月返还一定数量的币种）
+
+红包功能（支持平台及官方发放一定数量币种的红包，此功能适合用户裂变）
 
 用户资产管理、流水管理、委托管理、实名管理等各种基础管理
 
@@ -164,8 +150,6 @@ CTC管理（CTC订单管理、流水管理、承兑商管理）
 
 保证金管理（此功能设计时考虑到，但实际运营期间未使用到）
 
-OTC管理（广告管理、订单管理、OTC币种管理、退保管理等，此功能未获得实际运营检验）
-
 系统运行环境：
 
 Centos 6.8
@@ -175,9 +159,6 @@ MySQL 5.5.16
 Redis-x64-3.2.100
 
 nginx-1.16.0
-
-
-JDK 1.8
 
 Vue
 
