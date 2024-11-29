@@ -17,21 +17,25 @@ qq 29980928
 
 # 演示地址
 
-前端h5： 
-https://h5.zhugege.vip 
-444555666 444555666
+h5端：
+h5.sykeji.vip
+base@gmail.com
+123456
 
-前端pc：
-https://pc.zhugege.vip 
-444555666 444555666
+pc端：
+pc.sykeji.vip
+base@gmail.com
+123456
 
-总后台 
-https://admin.zhugege.vip/admin 
-admin admin
+代理端：
+daili.sykeji.vip/admin
+998007
+123456
 
-代理端 
-https://daili.zhugege.vip/admin 
-444555666 444555666
+总后台：
+admin.sykeji.vip/admin
+admin
+123456
 
 # 界面展示
 ![微信截图_20230713220045](https://github.com/zhugegedm/-laravel-BTC-ETH-/assets/54832494/20eccd08-cf4a-493e-bfda-51537532b1a1)
