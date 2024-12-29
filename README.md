@@ -18,22 +18,22 @@ qq 29980928
 # 演示地址
 
 h5端：
-h5.sykeji.vip
+sj.sykeji.vip
 base@gmail.com
 123456
 
 pc端：
-pc.sykeji.vip
+pcc.sykeji.vip
 base@gmail.com
 123456
 
 代理端：
-daili.sykeji.vip/admin
+dl.sykeji.vip/admin
 998007
 123456
 
 总后台：
-admin.sykeji.vip/admin
+ht.sykeji.vip/admin
 admin
 123456
 
